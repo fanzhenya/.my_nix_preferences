@@ -3,7 +3,7 @@ MY_PURPLE=$FG[103]
 
 function ssh_connection() {
   if [[ -n $SSH_CONNECTION ]]; then
-    echo "%n@%m:"
+    echo "SSH ᐅ %n@%m:"
   fi
 }
 
