@@ -21,6 +21,7 @@ install_bash_aliases_and_env_vars_to() {
 # these lines are automatically inserted by my_nix_preferences
 . $PWD/bash_aliases
 . $PWD/env_vars
+. $PWD/misc
 
 EOF
 }
