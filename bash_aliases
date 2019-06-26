@@ -13,4 +13,3 @@ alias gg="git log --graph --pretty=format:'%C(auto)%h% %d%Creset %s %C(blue)(%cr
 alias dpsa="docker ps -a"
 
 
-alias nv='cd /Volumes/devfs/nv'
