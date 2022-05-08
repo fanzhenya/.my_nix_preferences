@@ -6,3 +6,8 @@
 
 # export LANG='UTC-8'
 # export LC_ALL='en_US.UTF-8'
+
+
+# for autojump
+[[ -s /Users/sleeping/.autojump/etc/profile.d/autojump.sh ]] && source /Users/sleeping/.autojump/etc/profile.d/autojump.sh
+autoload -U compinit && compinit -u
